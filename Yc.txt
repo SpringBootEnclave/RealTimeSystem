@@ -1,0 +1,4 @@
+-Queue RabitMQ
+-Trello: VuTran (vutran23)
+-Git: gitlab, github, bitbucket
+	Add anhvaut@gmail.com
